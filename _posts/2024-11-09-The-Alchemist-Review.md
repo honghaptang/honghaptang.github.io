@@ -4,7 +4,7 @@ title: "The Alchemixed-up Suras"
 date: 2024-11-10
 ---
 TODO: reformat this 
-# As suras alquimisturadas:  O Alquimista interpretado por Jules Henry
+# As suras alquimisturadas:  O Alquimista interpretado por 홍합탕
 
 <(-+-)>O universo me mostrar o que preciso fazer pra pegar o dinheiro preciso pra minha familia.
 
@@ -59,7 +59,7 @@ de saber que ela existia, e que seu amor por ela faria com que encontrasse todos
 
 ####################################ENGLISH VERSION##########################################
 
-# The Alchemixed-up Suras: The Alchemist interpreted by Jules Henry
+# The Alchemixed-up Suras: The Alchemist interpreted by 홍합탕
 
 <(-+-)>The universe will show me what I need to do to get the money I need for my family.
 
