@@ -2,6 +2,32 @@
 layout: default
 title: Hong Hap Tang's Blog
 ---
-    <div class="blurb" style="text-align: center;">
-      <h1>Random Musings in Multiple Languages ....</h1>
-    </div>
+
+<div class="home">
+  <div class="blurb">
+    <p style="text-align: center; font-size: 1.2em; color: #4a5568;">
+      Welcome to <strong>홍합탕</strong> — a space for random musings in multiple languages.
+    </p>
+    <p style="text-align: center; color: #718096;">
+      Technical deep-dives, language learning, music reviews, and philosophical musings.
+      New posts every week.
+    </p>
+  </div>
+
+  <h2 style="margin-top: 2em;">Latest Posts</h2>
+  
+  <ul class="posts">
+    {% for post in site.posts limit: 10 %}
+      <li>
+        <a href="{{ post.url }}">{{ post.title }}</a>
+        <span class="date">{{ post.date | date: "%b %d, %Y" }}</span>
+      </li>
+    {% endfor %}
+  </ul>
+
+  {% if site.posts.size > 10 %}
+    <p style="text-align: center; margin-top: 2em;">
+      <a href="/blog" style="color: #3182ce; font-weight: 600;">View all {{ site.posts.size }} posts →</a>
+    </p>
+  {% endif %}
+</div>

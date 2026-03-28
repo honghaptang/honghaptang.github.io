@@ -1,16 +1,13 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
   <head>
-    <title>{{ page.title }}</title>
-        <meta charset='utf-8'>
-    <meta http-equiv="X-UA-Compatible" content="chrome=1">
-    <link href='https://fonts.googleapis.com/css?family=Chivo:900' rel='stylesheet' type='text/css'>
+    <meta charset='utf-8'>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{% if page.title %}{{ page.title }} | {% endif %}홍합탕</title>
+    <meta name="description" content="{{ page.excerpt | default: 'Hong Hap Tang\'s Blog - Random Musings in Multiple Languages' | strip_html | truncate: 160 }}">
     <link rel="stylesheet" type="text/css" href="/stylesheets/main.css">
-    <link rel="stylesheet" type="text/css" href="/stylesheets/stylesheet.css" media="screen">
-    <link rel="stylesheet" type="text/css" href="/stylesheets/github-dark.css" media="screen">
-    <link rel="stylesheet" type="text/css" href="/stylesheets/print.css" media="print">
     <link rel="icon" type="image/x-icon" href="/blog/favicon.ico">
-        <!-- MathJax Configuration -->
+    <!-- MathJax Configuration -->
     <script>
     MathJax = {
       tex: {
@@ -27,32 +24,36 @@
     <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js" id="MathJax-script" async></script>
   </head>
 
-
   <body>
-  <div id="container">
-  <div class="inner">
+    <header class="site-header">
+      <div class="container">
+        <h1><a href="/" style="text-decoration: none; color: inherit;">홍합탕</a></h1>
+        <h2>Random Musings in Multiple Languages</h2>
+      </div>
+    </header>
 
-        <header>
-          <h1>홍합탕</h1>
-          <h2></h2>
-        </header>
     <nav>
-<ul>
-<li><a href="/">Home</a></li>
-<li><a href="/blog">Blog</a></li>
-</ul>
+      <div class="container">
+        <ul>
+          <li><a href="/">Home</a></li>
+          <li><a href="/blog">Blog</a></li>
+          <li><a href="https://github.com/honghaptang">GitHub</a></li>
+        </ul>
+      </div>
     </nav>
-<section id="main_content">
-  {{ content }}
-</section>
-  
-  <footer>
-   <ul>
-   <li><a href="https://github.com/honghaptang">https://www.github.com/honghaptang</a></li>
-   </ul>
-  </footer>
-</div>
-</div>
-  </body>
 
+    <main class="container">
+      {{ content }}
+    </main>
+
+    <footer>
+      <div class="container">
+        <p>&copy; {{ site.time | date: '%Y' }} Hong Hap Tang. Built with Jekyll.</p>
+        <ul>
+          <li><a href="https://github.com/honghaptang/honghaptang.github.io">Source</a></li>
+          <li><a href="/blog/atom.xml">RSS Feed</a></li>
+        </ul>
+      </div>
+    </footer>
+  </body>
 </html>
