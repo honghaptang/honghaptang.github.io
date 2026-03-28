@@ -1,6 +1,7 @@
 name: 홍합탕
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
+future: true
 kramdown:
   math_engine: mathjax
   syntax_highlighter: rouge

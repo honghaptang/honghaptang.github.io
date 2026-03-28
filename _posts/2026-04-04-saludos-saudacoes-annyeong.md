@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Saludos, Saudações, 안녕: Notes on Polyglot Drifting"
+title: "Saludos, Saudações, 안녕: Polyglot Notes"
 date: 2026-04-04
 ---
 
@@ -10,49 +10,50 @@ Three languages walked into a bar. The bartender said, "We don't serve your kind
 
 > *Ni hao. Olá. Annyeong.*
 
-## Portuguese: The Melody
+## Portuguese: Vowel Archaeology
 
-Brazilian Portuguese continues to surprise me with its vowel reductions. In European Portuguese, you practically swallow half the word. In Brazilian Portuguese, you sing it.
+Brazilian Portuguese stretches vowels like taffy. European Portuguese swallows them whole. Same language, different philosophies of sound.
 
-From last week's reading:
-> *"O mangue beat não é só música, é um manifesto cultural."*
+I was reading about manguebeat when I noticed: the Portuguese in Recife isn't the Portuguese in São Paulo. Regional variation isn't just accent — it's rhythm, it's identity.
 
-Manguebeat isn't just music — it's a cultural manifesto. Chico Science knew this.
+> *"O caranguejo não é peixe."*
 
-## Korean: The Particles
+The crab isn't a fish. The crab is a crab. Manguebeat isn't jungle. Manguebeat is manguebeat.
 
-이세돌 vs. AlphaGo. The match that shook the world. But what struck me was the Korean commentary — the way particles mark every relationship:
+## Korean: Particles as Relationships
 
-- **이/가** marks the subject
-- **을/를** marks the object  
-- **는/은** marks the topic
+Korean doesn't let you forget who's doing what to whom. Every noun wears a badge:
 
-When 이세돌 placed stone 78, the commentators didn't just say "move 78." They said:
+- **이/가** — I'm the subject
+- **을/를** — I'm the object
+- **는/은** — I'm the topic
 
-> **78 수가 빛났다** — Move 78 shone.
+When a Go player says **수가 빛났다**, they're not just saying "the move shone." They're marking the move as the subject of shining. The language won't let you be vague about agency.
 
-## Lojban: The Logic
+## Lojban: Predicates Without Nouns
 
 *o kama pona tawa li kiwen kon*
 
-A greeting to the stone spirit? Lojban forces you to think in predicates, in relationships rather than subjects. No nouns without verbs. No being without doing.
+Lojban has no pure nouns. Everything is a predicate waiting for arguments. You can't say "stone" — you say "x1 is a stone" or "x1 stones."
 
-## Spanish: The Familiar Foreign
+Being requires doing. Existence is relational.
 
-Salvadoran Spanish drops the *s* like it's hot. *"¿Cómo estás?"* becomes *"¿Cómo etá'?"* 
+## Spanish: The Dropped S
 
-The dipirona — metamizole — is prescription-only in some countries, over-the-counter in El Salvador. Language and medicine both encode cultural values.
+Salvadoran Spanish: *"¿Cómo etá'?"*
 
-## The Thread
+The *s* isn't gone — it's implied. Like a jazz drummer's ghost note. You hear it by not hearing it.
 
-What connects these? **Attention**. Each language demands you notice something different:
-- Portuguese: rhythm
-- Korean: relationships
-- Lojban: logic
-- Spanish: social warmth
+## The Pattern
 
-Next week: Music. But really, isn't this already music?
+Each language forces attention somewhere different:
+- Portuguese → rhythm
+- Korean → relationships  
+- Lojban → logic
+- Spanish → social warmth
+
+Maybe fluency isn't about perfection. Maybe it's about learning what each language asks you to notice.
 
 ---
 
-*Week 2 of 5. Next: Music & Arts*
+*Week 2 of 5. Next: Music*
