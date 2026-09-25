@@ -148,7 +148,7 @@ The vocabulary of wounds and healing in Korean is evocative:
 
 ## 수고하세요: The Farewell That Means "Work Hard"
 
-I wrote about this in [Shtetl Length](https://juleshenry.github.io/blog/2025/06/21/Shtetl-Length), but it deserves elaboration here.
+I wrote about this in [Shtetl Length](/blog/2025/06/21/Shtetl-Length), but it deserves elaboration here.
 
 수고하세요 is a casual farewell rooted in Korean work culture. It literally means something like "please labor/exert yourself," but in practice it functions as "good work, see you later" or "keep it up." The upper politeness register manifests as 수고하셨어요 or 수고하셨습니다, used when:
 
